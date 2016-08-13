@@ -1,3 +1,8 @@
+Hi Human!
+
+This is my first try on GitHub
+
+
 echo "# usual-repo" >> README.md
 git init
 git add README.md
